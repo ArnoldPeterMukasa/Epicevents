@@ -6,7 +6,7 @@ export default function Header() {
         <nav className="flex gap-4 text-sm">
           <a href="/services">Services</a>
           <a href="/gallery">Gallery</a>
-          <a href="/contact" className="px-3 py-1 rounded bg-black text-white">Book</a>
+          <a href="/contact" className="px-3 py-1 rounded bg-primary text-ink font-semibold">Book</a>
         </nav>
       </div>
     </header>
