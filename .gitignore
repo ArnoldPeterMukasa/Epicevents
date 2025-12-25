@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# documentation (keep local only)
+SUPABASE_SETUP.md
+QUICK_START.md
+MAGIC_LINK_SETUP.md
+REDIRECT_URLS_EXPLAINED.md
+FILES_TO_COMMIT.md
+
+# database schema (keep local only)
+database-schema.sql
