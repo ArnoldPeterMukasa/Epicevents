@@ -16,7 +16,7 @@ export default function Homepage() {
             Epic Events — Uganda’s partner for concerts, corporate, weddings & club nights. From Boyz II Men to CEO Presidential Forum, we deliver wow moments.
           </p>
           <div className="mt-6 flex gap-3">
-            <a href="/contact" className="px-5 py-3 bg-black text-white rounded">Get a Quote</a>
+            <a href="/contact" className="px-5 py-3 bg-primary text-ink rounded font-semibold">Get a Quote</a>
             <a href="/gallery" className="px-5 py-3 border rounded">See Our Work</a>
           </div>
         </div>
